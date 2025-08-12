@@ -1,4 +1,4 @@
-<h1 align="center">🩺 Medical AI Agent</h1>
+<h1 align="center">🩺 Medical Agent</h1>
 
 <p align="center">
   <strong>Your AI-powered Medical Data & Information Assistant</strong><br>
@@ -51,7 +51,7 @@ It detects whether you want <strong>data analysis</strong> from local CSV datase
 medical-ai-agent/
 │
 ├── databases/               ← Auto-generated SQLite DBs
-├── medical_agent.py         ← Main script
+├── agent.py                 ← Main script
 ├── heart.csv
 ├── The_Cancer_data_1500_V2.csv
 ├── diabetes.csv
@@ -82,7 +82,7 @@ diabetes.csv
 
   <li>Run the program</li>
 
-  <pre><code>python medical_agent.py</code></pre>
+  <pre><code>python agent.py</code></pre>
 </ol>
 
 <hr>
