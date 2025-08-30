@@ -1,7 +1,7 @@
 <h1 align="center">🩺 Medical Agent</h1>
 
 <p align="center">
-  <strong>Your AI-powered Medical Data & Information Assistant</strong><br>
+  <strong>Your AI-powered Medical Data & Information Assistant </strong><br>
   Query heart disease, cancer, and diabetes datasets or get general medical information – all in one place.
 </p>
 
